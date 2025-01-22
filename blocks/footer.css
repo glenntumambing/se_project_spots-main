@@ -1,0 +1,10 @@
+.footer__signature {
+    height: 16px;
+    margin: 0; 
+  }
+  
+  .footer {
+    display: flex;
+    justify-content: center;
+    padding: 60px 0;
+  }
