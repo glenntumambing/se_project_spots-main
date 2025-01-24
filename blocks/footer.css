@@ -1,10 +1,14 @@
 .footer__signature {
-    height: 16px;
+    display: flex;
+    justify-content: center;
     margin: 0; 
+    font-weight: 400;
+    font-size: 46px;
+    line-height: 16px;
+    color: #212121B2;
+    max-width: 104px;
   }
   
   .footer {
-    display: flex;
-    justify-content: center;
     padding: 60px 0;
   }

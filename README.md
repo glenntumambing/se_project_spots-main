@@ -30,4 +30,7 @@ A website to share pictures of places that the user went to... ~share more detai
 Plans for improving the project
 What would you like to do in this project in the future
 
-Github pages link
+Github pages link:https://github.com/glenntumambing/se_project_spots-main.git
+
+presentation video:
+https://drive.google.com/file/d/1tccvXVMWPQxV_6EFVmhLAPSxctlOtuil/view?usp=drive_link
